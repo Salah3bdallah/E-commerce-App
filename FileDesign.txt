@@ -11,3 +11,16 @@ console.log(Username);
 
 
 
+
+function Age (age)
+	{
+		return `Hello World, Welcome to Eygpt, Mr, Your Age is ${name}`;
+	}
+
+
+let myAge = Age("26 Years old");
+
+
+console.log(myAge);
+
+
