@@ -1,0 +1,13 @@
+function Welcome (name)
+	{
+		return `Hello World, Welcome to Eygpt, Mr, ${name}`;
+	}
+
+
+let Username = Welcome("Salah Abdallah Salah El Mogazi");
+
+
+console.log(Username);
+
+
+
